@@ -1,8 +1,8 @@
-# 30Days Burp Suite Learning Challenge!!
+# 30Days Burp Suite Learning Challenge 🧑‍💻
 
 # Day : 1
 
-# About Burp Suite
+# About Burp Suite 🙂
 
 👉 Burp or Burp Suite is a graphical tool for testing Web application security. The tool is written in Java and developed by PortSwigger Security.
 
