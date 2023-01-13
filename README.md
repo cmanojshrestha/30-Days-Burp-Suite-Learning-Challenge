@@ -23,7 +23,7 @@
 
 • Repeater - A simple tool that can be used to manually, test an application, It can be used to modify requests to the server, resend them, and observe the results.
 
-• Decoder -A tool for transforming encoded data into its canonical form, or for transforming raw data into various ençoded and hashed forms. It is capable of intelligerntly recognizing several encoding formats using heuristic techniques.
+• Decoder -A tool for transforming encoded data into its canonical form, or for transforming raw data into various encoded and hashed forms. It is capable of intelligerntly recognizing several encoding formats using heuristic techniques.
 
 • Comparer - A tool for performing a comparison (a visual "diff") between any two items of data.
 
